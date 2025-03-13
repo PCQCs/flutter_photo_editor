@@ -1,16 +1,19 @@
-# flutter_photo
+# flutter_photo_editor
 
-A new Flutter project.
+flutter 프레임워크를 사용하여 제작한 사진 편집기 앱입니다.
 
-## Getting Started
+## 개발환경
 
-This project is a starting point for a Flutter application.
+- **IDE** : VsCode
+- **version** : kotlin 1.9.10
+- **FrameWork** : flutter
 
-A few resources to get you started if this is your first Flutter project:
+## 앱 기능
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **crop**
+- **crop**
+- **crop**
+- **crop**
+- **crop**
+- **crop**
+- **crop**
